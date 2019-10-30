@@ -9,7 +9,5 @@
 
 
 ##### Utilisation :
-##### ______________
-        
 ###### pour le cas d'utilisation il suffit de lancer l'application en plusieur instances pour simuler deux client avec deux codes differents et essayer d'envoyer des message aux autres clients grace au champ text (To).
 
